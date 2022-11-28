@@ -1,0 +1,19 @@
+{
+  "deployer": {
+    "type": "Gateway",
+    "options": {
+      "conn": {
+        "server": "103.207.171.202",
+        "client": "800"
+      },
+      "ui5": {
+        "language": "EN",
+        "package": "zkd",
+        "bspcontainer": "zkd_demo",
+        "bspcontainer_text": "Demo App",
+        "calc_appindex": true,
+        "transportno": " S4DK901135"
+      }
+    }
+  }
+}
